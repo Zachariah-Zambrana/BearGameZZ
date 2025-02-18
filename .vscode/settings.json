@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Bear_ZZ.sln"
+    "dotnet.defaultSolution": "BearGameZZ.sln"
 }
